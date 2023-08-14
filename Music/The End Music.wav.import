@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/The End Music.wav-90a5c6d021016379a7153f2c809b5d1c.sample"
+
+[deps]
+
+source_file="res://Music/The End Music.wav"
+dest_files=[ "res://.import/The End Music.wav-90a5c6d021016379a7153f2c809b5d1c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

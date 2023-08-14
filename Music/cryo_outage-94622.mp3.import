@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cryo_outage-94622.mp3-515efd3b9349ba43b866f48bbd57771d.mp3str"
+
+[deps]
+
+source_file="res://Music/cryo_outage-94622.mp3"
+dest_files=[ "res://.import/cryo_outage-94622.mp3-515efd3b9349ba43b866f48bbd57771d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

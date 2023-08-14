@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sword-hit-7160.mp3-a7f0d6a7cfb201afadfb194f788c2f4e.mp3str"
+
+[deps]
+
+source_file="res://Music/sword-hit-7160.mp3"
+dest_files=[ "res://.import/sword-hit-7160.mp3-a7f0d6a7cfb201afadfb194f788c2f4e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

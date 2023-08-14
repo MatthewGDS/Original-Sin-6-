@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/water-splosh-38143.mp3-79f0507df14874079e84116331c9c8e1.mp3str"
+
+[deps]
+
+source_file="res://Music/water-splosh-38143.mp3"
+dest_files=[ "res://.import/water-splosh-38143.mp3-79f0507df14874079e84116331c9c8e1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

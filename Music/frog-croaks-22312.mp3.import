@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/frog-croaks-22312.mp3-6934e7e85a8df7d0892bfcba6c22ba25.mp3str"
+
+[deps]
+
+source_file="res://Music/frog-croaks-22312.mp3"
+dest_files=[ "res://.import/frog-croaks-22312.mp3-6934e7e85a8df7d0892bfcba6c22ba25.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

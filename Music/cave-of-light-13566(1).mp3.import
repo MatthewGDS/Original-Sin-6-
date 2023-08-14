@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cave-of-light-13566(1).mp3-1ce18ab71e98624ba6ae5285a4ff237c.mp3str"
+
+[deps]
+
+source_file="res://Music/cave-of-light-13566(1).mp3"
+dest_files=[ "res://.import/cave-of-light-13566(1).mp3-1ce18ab71e98624ba6ae5285a4ff237c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

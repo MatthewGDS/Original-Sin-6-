@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hiding-place-in-the-forest-111724.mp3-74e810e7be6084d367a98d3a4ce543d1.mp3str"
+
+[deps]
+
+source_file="res://Music/hiding-place-in-the-forest-111724.mp3"
+dest_files=[ "res://.import/hiding-place-in-the-forest-111724.mp3-74e810e7be6084d367a98d3a4ce543d1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

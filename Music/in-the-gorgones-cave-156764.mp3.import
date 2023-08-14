@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/in-the-gorgones-cave-156764.mp3-a3d839d9a9ba9868fd762827f6206f7a.mp3str"
+
+[deps]
+
+source_file="res://Music/in-the-gorgones-cave-156764.mp3"
+dest_files=[ "res://.import/in-the-gorgones-cave-156764.mp3-a3d839d9a9ba9868fd762827f6206f7a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

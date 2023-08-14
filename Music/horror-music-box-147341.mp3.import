@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/horror-music-box-147341.mp3-0ddb98939ba0f04aeb4ff2552af5c2de.mp3str"
+
+[deps]
+
+source_file="res://Music/horror-music-box-147341.mp3"
+dest_files=[ "res://.import/horror-music-box-147341.mp3-0ddb98939ba0f04aeb4ff2552af5c2de.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
